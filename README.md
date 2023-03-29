@@ -1,11 +1,11 @@
-About r-ellipse
-===============
+About r-ellipse-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ellipse-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ellipse
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ellipse-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains various routines for drawing ellipses and ellipse-like confidence regions, implementing the plots described in Murdoch and Chow (1996), A graphical display of large correlation matrices, The American Statistician 50, 178-180. There are also routines implementing the profile plots described in Bates and Watts (1988), Nonlinear Regression Analysis and its Applications.
 
